@@ -36,3 +36,4 @@
 #import <Cordova/CDVScreenOrientationDelegate.h>
 #import <Cordova/CDVTimer.h>
 #import <Cordova/CDVURLSchemeHandler.h>
+#import "CDVWebViewEngine.h"
