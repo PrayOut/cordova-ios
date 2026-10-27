@@ -26,3 +26,4 @@ FOUNDATION_EXPORT double CordovaVersionNumber;
 FOUNDATION_EXPORT const unsigned char CordovaVersionString[];
 
 #import <Cordova/CDV.h>
+#import <Cordova/CDVWebViewEngine.h>
