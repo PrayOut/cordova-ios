@@ -38,6 +38,8 @@
 #import <Cordova/CDVScreenOrientationDelegate.h>
 #import <Cordova/CDVTimer.h>
 
+#import <Cordova/CDVWebViewEngine.h>
+
 // Deprecated
 #import <Cordova/CDV.h>
 #import <Cordova/NSDictionary+CordovaPreferences.h>
